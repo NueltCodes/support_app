@@ -31,5 +31,5 @@ export const ModalProvider = () => {
       <LeaveServerModal />
       <DeleteServerModal />
     </>
-  )
-}
+  );
+};
